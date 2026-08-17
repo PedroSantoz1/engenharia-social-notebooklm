@@ -176,6 +176,6 @@ Além de aprender sobre Engenharia Social, o projeto permitiu praticar **curador
 
 ## 👤 Autor
 
-**[Pedro Henrique]**
+**Pedro Henrique**
 
 Projeto desenvolvido como parte de um desafio da **DIO**.
