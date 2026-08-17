@@ -25,10 +25,7 @@ Foram selecionadas fontes confiáveis e adicionadas ao NotebookLM:
 3. **"Kevin Mitnick: Os conselhos do ex-hacker para manter as empresas seguras"** — https://executivedigest.sapo.pt/kevin-mitnick-os-conselhos-do-ex-hacker-para-manter-as-empresas-seguras/
 4. **"KnowBe4 Kevin Mitnick Security Awareness Training | SecurityTrainingWorks.com"** — https://securitytrainingworks.com/kmsat.asp
 5. **"Laboratório 3 - Allan M. de Souza - IC-Unicamp"** — https://ic.unicamp.br/~allanms/mc833-S12026/Labs/Lab-03/
-6. **"The Cycle of Deception - A Model of Social Engineering Attacks, Defences and Victims - Centre for Security, Communications and Network Research (CSCAN)"** — [https://notebook.google.com/notebook/9c942a01-601a-4fc3-9f44-6105497cb866]
-7. **"Técnicas de ingeniería social - Adaptix Networks"** — https://www.adaptixnetworks.com/tecnicas-de-ingenieria-social/
-8. **"Cybersecurity’s Greatest Showman On Earth: Kevin Mitnick"** — https://cybersecurityventures-com.translate.goog/cybersecuritys-greatest-show-on-earth-kevin-mitnick/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
-9. **"A_arte_de_enganar_kevin_mitnick.pdf"**
+6. **"Técnicas de ingeniería social - Adaptix Networks"** — https://www.adaptixnetworks.com/tecnicas-de-ingenieria-social/
 
 ---
 
