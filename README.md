@@ -116,19 +116,18 @@ A prevenção deve combinar **pessoas, processos e tecnologia**.
 
 # 📘 Glossário
 
-| Termo                         | Definição                                                                     |
-| ----------------------------- | ----------------------------------------------------------------------------- |
-| **Engenharia Social**         | Manipulação de pessoas para obter informações ou provocar determinadas ações. |
-| **Phishing**                  | Comunicação fraudulenta utilizada para enganar usuários.                      |
-| **Pretexto**                  | História ou identidade falsa criada para conquistar confiança.                |
-| **Rapport**                   | Construção de uma relação de confiança com a vítima.                          |
-| **Dumpster Diving**           | Busca de informações em materiais descartados.                                |
-| **Shoulder Surfing**          | Observação de informações confidenciais de outra pessoa.                      |
-| **Candy Security**            | Forte proteção externa acompanhada de baixa proteção interna.                 |
-| **Engenharia Social Inversa** | Técnica em que a vítima é induzida a procurar o atacante.                     |
-| **Trojan Horse**              | Programa malicioso disfarçado de software ou arquivo legítimo.                |
-| **Spear Phishing**            | Phishing personalizado para um alvo específico.                               |
-
+| Termo | Definição |
+|---|---|
+| **Engenharia Social** | Manipulação de pessoas para obter informações ou provocar determinadas ações. |
+| **Phishing** | Comunicação fraudulenta utilizada para enganar usuários. |
+| **Pretexto** | História ou identidade falsa criada para conquistar confiança. |
+| **Rapport** | Construção de uma relação de confiança com a vítima. |
+| **Dumpster Diving** | Busca de informações em materiais descartados. |
+| **Shoulder Surfing** | Observação de informações confidenciais de outra pessoa. |
+| **Candy Security** | Forte proteção externa acompanhada de baixa proteção interna. |
+| **Engenharia Social Inversa** | Técnica em que a vítima é induzida a procurar o atacante. |
+| **Trojan Horse** | Programa malicioso disfarçado de software ou arquivo legítimo. |
+| **Spear Phishing** | Phishing personalizado para um alvo específico. |
 ---
 
 # ♻️ Prompts Reutilizáveis
